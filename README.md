@@ -1,16 +1,6 @@
-# 🚀 Insight Impactors – Big Data Driven Candidate Selection
+# 🚀 Insight Impactors – Big Data Driven Candidate Selection - HUSH HUSH RECRUITER
 
 ### 📅 Date: 10.06.2024  
-### 🏫 SRH University Heidelberg – Big Data Programming Course  
-### 👥 Team Members:
-- Alistair Simpson Pereira  
-- Blessy Aaron  
-- Harshita Jamadade  
-- Nimesh Kotian  
-- Shruti Pardeshi  
-
----
-
 ## 📌 Project Overview
 
 Doodle, a globally renowned tech company, traditionally relies on recruitment agencies to hire developers, senior developers, and solution architects. To streamline and innovate their hiring process, Doodle aims to **build an automated in-house solution** that identifies top talent based on their digital presence—especially on platforms like **GitHub** and **Stack Overflow**.
